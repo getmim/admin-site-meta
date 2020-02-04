@@ -10,4 +10,4 @@ Jalankan perintah di bawah di folder aplikasi:
 mim app install admin-site-meta
 ```
 
-Silahkan mengacu pada dokumentasi di [website](https://getmim.github.io/modules/site/site-meta/) untuk penggunaannya.
+Silahkan mengacu pada dokumentasi di [website](https://getmim.github.io/modules/site/site-meta/admin/) untuk penggunaannya.
